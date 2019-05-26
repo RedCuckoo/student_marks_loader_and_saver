@@ -1,0 +1,8 @@
+header, 2, 23
+1/96, 56,5, 40, K13, Discrete Math, Ivan, 1234567, Ivanov
+2/76, 42,4, 34, K13
+
+3/86, 46, 4,40, K13, Mathematical Analysis, Nikita, 56, Petrov/
+
+4/66, 30, 3,36, K12, English, Ivanna, 1567, Petrova/
+footer, 6

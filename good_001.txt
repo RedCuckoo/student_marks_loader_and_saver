@@ -1,0 +1,11 @@
+header, 2, 23
+
+1/98, 30,5, 36, K12, English, Ivanna, 1784577, Petrova
+2/98, 32,5, 35, K12, Discrete Math, Ivanna, 1784967, Petrova
+
+3/96, 46,5, 40, K11, Mathematical Analysis, Nikita, 5634567, Ivanov
+
+
+4/93, 30,5, 36, K11, English, Ivanna, 1784967, Petrova
+
+footer, 6

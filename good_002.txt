@@ -1,0 +1,15 @@
+header, 2, 23
+
+
+
+
+
+1/96, 56,5, 40, K11, Discrete Math, Ivan,1324567, Lyapkin
+2/76, 42,4, 34, K11, Discrete Math, Illia, 1234568, Kishkin
+
+3/86, 46,4, 40, K11, Mathematical Analysis, Nikita, 5634567, Ivanov
+
+
+
+4/66, 30,3, 36, K11, English, Ivanna, 1784567    , Petrova
+footer, 6
