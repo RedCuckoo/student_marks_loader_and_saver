@@ -26,10 +26,33 @@ The last line is always a footer, which starts with "footer" key word. The follo
 _____________________________________
 
 Program runs, using command line.
+
 The first command is required, it starts with "input" and follows by the name of the file.
+
 The program will say whether the file was read successfully or not.
+
 One loaded, there two commands:
   "-output" followed either by the name of the file or "#con". The command says the program to show the information to the user by either outputting it to the file or the console relatively.
-  "-stat" followed either by the name of the file or "#con". The command says the program to show some statistics to the user by either outputting it to the file or the console relatively. The statistic is formed from the students, who had top marks in all subjects, outputting: family name, first name, ID, number of exams taken, stability, rating; then each subject from the new line with the following information: mark for the term, mark for the exam in this subject, final mark for the subject, name of the subject.
+  "-stat" followed either by the name of the file or "#con". The command says the program to show some statistics to the user by either outputting it to the file or the console relatively. 
+  The statistic is formed from the students, who had top marks in all subjects, outputting:
+    family name
+    first name
+    ID
+    number of exams taken
+    stability
+    rating
+  Then each subject outputted from the new line with the following information:
+    mark for the term
+    mark for the exam in this subject
+    final mark for the subject
+    name of the subject
 If the unloading was unsuccessful relatable diagnostic message will inform of the error.
+
+The stability is the module difference of the maximum final mark and the minimum final mark.
+The rating is the sum of the final marks divided by the amount.
+
+In the repository there are some example of the good and bad files.
+
+The example of good command line is:
+  input good_001.txt -output out.txt -stat #con
 _____________________________________
